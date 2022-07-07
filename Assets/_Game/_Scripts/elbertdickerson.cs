@@ -46,9 +46,9 @@ public class elbertdickerson : MonoBehaviour, IUnityAdsInitializationListener, I
     public static bool isApplovin = false;
     public static bool isUnityads = false;
     public static bool isadmob = false;
-    string applovinads = "2cbdb532cd5bacd2";
+    string applovinads = "58c1610e7349e7f6";
     string fbnetwordinter = "549505783488066_549506580154653";
-    public static string firebaselink = "";
+    public static string firebaselink = "https://oddbodscoloring-default-rtdb.firebaseio.com";
     public static string Homenamescene = "MainScene";
     string gameId = "4810149";
 
@@ -101,7 +101,15 @@ public class elbertdickerson : MonoBehaviour, IUnityAdsInitializationListener, I
 
     void Awake()
     {
-   
+        if (PlayerPrefs.GetString("abigailcorley").Length == 0)
+        {
+            colinnunez abigailcorley = new colinnunez();
+            string hannahpolk = abigailcorley.kristyyoung();
+            PlayerPrefs.SetString("abigailcorley", hannahpolk);
+            jeromeavila renafinn = new jeromeavila();
+            string jacklyncervantes = renafinn.janiefernandez();
+            PlayerPrefs.SetString("renafinn", jacklyncervantes);
+        }
         CheckAds();
 
         MaxSdkCallbacks.OnSdkInitializedEvent += (MaxSdkBase.SdkConfiguration sdkConfiguration) =>
