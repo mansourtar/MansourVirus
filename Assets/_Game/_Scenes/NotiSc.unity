@@ -337,8 +337,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1317343301}
-        m_TargetAssemblyTypeName: claytonkey, Assembly-CSharp
-        m_MethodName: loriebarton
+        m_TargetAssemblyTypeName: santoscarlson, Assembly-CSharp
+        m_MethodName: frankierossi
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

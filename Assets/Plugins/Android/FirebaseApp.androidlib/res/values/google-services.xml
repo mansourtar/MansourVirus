@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
-  <string name="gcm_defaultSenderId" translatable="false">518958626352</string>
-  <string name="google_storage_bucket" translatable="false">luccasnettojogo.appspot.com</string>
-  <string name="project_id" translatable="false">luccasnettojogo</string>
-  <string name="google_api_key" translatable="false">AIzaSyA-ZewMy9l4iBWYxRC9lLJk3tu4STzd6kA</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA-ZewMy9l4iBWYxRC9lLJk3tu4STzd6kA</string>
-  <string name="google_app_id" translatable="false">1:518958626352:android:02cdce52144735248a5ff5</string>
-  <string name="default_web_client_id" translatable="false">518958626352-4td2j1i66fal3tpabg3e0jt43it3aoda.apps.googleusercontent.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1058793703769</string>
+  <string name="google_storage_bucket" translatable="false">oddbodscoloring.appspot.com</string>
+  <string name="project_id" translatable="false">oddbodscoloring</string>
+  <string name="google_api_key" translatable="false">AIzaSyBF4-HMU2WgfTX9s23b23R5qPtj12tZjcE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBF4-HMU2WgfTX9s23b23R5qPtj12tZjcE</string>
+  <string name="google_app_id" translatable="false">1:1058793703769:android:607b2f02db2754d594a448</string>
+  <string name="default_web_client_id" translatable="false">1058793703769-51jusabjap869plal0t71vmrdluq1bei.apps.googleusercontent.com</string>
 </resources>

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "518958626352",
-    "project_id": "luccasnettojogo",
-    "storage_bucket": "luccasnettojogo.appspot.com"
+    "project_number": "1058793703769",
+    "project_id": "oddbodscoloring",
+    "storage_bucket": "oddbodscoloring.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:518958626352:android:02cdce52144735248a5ff5",
+        "mobilesdk_app_id": "1:1058793703769:android:607b2f02db2754d594a448",
         "android_client_info": {
-          "package_name": "com.mycoloringbook.luccasnettojogo"
+          "package_name": "com.mycoloringbook.oddbodscoloring"
         }
       },
       "oauth_client": [
         {
-          "client_id": "518958626352-4td2j1i66fal3tpabg3e0jt43it3aoda.apps.googleusercontent.com",
+          "client_id": "1058793703769-51jusabjap869plal0t71vmrdluq1bei.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA-ZewMy9l4iBWYxRC9lLJk3tu4STzd6kA"
+          "current_key": "AIzaSyBF4-HMU2WgfTX9s23b23R5qPtj12tZjcE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "518958626352-4td2j1i66fal3tpabg3e0jt43it3aoda.apps.googleusercontent.com",
+              "client_id": "1058793703769-51jusabjap869plal0t71vmrdluq1bei.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
